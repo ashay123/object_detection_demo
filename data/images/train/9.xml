@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>9.jpg</filename>
+	<path>D:\TU Delft\Vakken\Master\Thesis\object_detection_demo\data\images\9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>161</ymin>
+			<xmax>417</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>252</ymin>
+			<xmax>531</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
